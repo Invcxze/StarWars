@@ -342,6 +342,7 @@ body {
     display: flex;
     justify-content: space-between;
 }
+/* колонны*/
 .final__banner__column {
     display: flex;
     flex-direction: column;
